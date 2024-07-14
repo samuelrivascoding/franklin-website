@@ -102,7 +102,7 @@ const LayoutHome = ({ className = "" }) => {
               </h3>
               <div className="self-stretch relative leading-[150%]">
                 In order to increase STEM involvement in the community, we have
-                started a 500 scholarship fund for Freshmen!
+                started a 500 dollar scholarship fund for Freshmen!
               </div>
               <div className="self-stretch flex flex-col items-start justify-start pt-2 px-0 pb-0">
                 <div
