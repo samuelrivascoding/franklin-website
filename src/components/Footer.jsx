@@ -32,7 +32,7 @@ const Footer = ({ className = "" }) => {
           src="/company-logo1@2x.png"
           onClick={onCompanyLogoImageClick}
         />
-        <nav className="m-0 w-[493px] flex flex-row items-start justify-center gap-[32px] text-left text-base text-link-primary font-heading-desktop-h5">
+        <nav className="relative m-0 flex flex-wrap items-start justify-center gap-[32px] text-left text-base text-link-primary font-heading-desktop-h5">
           <Link
             className="cursor-pointer [text-decoration:none] relative leading-[150%] font-semibold text-[inherit]"
             to="/about"

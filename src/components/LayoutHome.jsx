@@ -22,7 +22,7 @@ const LayoutHome = ({ className = "" }) => {
       className={`self-stretch bg-background-color-primary overflow-hidden flex flex-col items-start justify-start py-28 px-16 text-left text-base text-link-primary font-heading-desktop-h5 ${className}`}
     >
       <div className="self-stretch flex flex-row flex-wrap items-center justify-start gap-[80px]">
-        <div className="flex-1 flex flex-col items-start justify-start py-2 px-0 box-border gap-[32px] min-w-[356px]">
+        <div className="flex-1 flex flex-col items-start justify-start py-2 px-0 box-border gap-[32px] min-w-[248px]">
           <div className="self-stretch flex flex-row items-start justify-start gap-[24px]">
             <img
               className="w-12 relative h-12 overflow-hidden shrink-0 object-cover"
@@ -124,12 +124,12 @@ const LayoutHome = ({ className = "" }) => {
         </div>
         <div className="flex flex-col items-start justify-center gap-[10px]">
           <img
-            className="w-[616px] relative h-[411px] object-cover min-w-[480px]"
+            className="flex-1 relative max-w-full overflow-hidden h-[400px] object-cover min-w-[248px]"
             alt=""
             src="/placeholder-image@2x.png"
           />
           <img
-            className="w-[616px] relative h-[411px] object-cover min-w-[480px]"
+            className="flex-1 relative max-w-full overflow-hidden h-[400px] object-cover min-w-[248px]"
             alt=""
             src="/placeholder-image1@2x.png"
           />

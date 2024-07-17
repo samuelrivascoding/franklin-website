@@ -50,7 +50,7 @@ const CTAScholarship = ({ className = "" }) => {
           </div>
         </div>
         <img
-          className="flex-1 relative max-w-full overflow-hidden h-[400px] object-cover min-w-[436px]"
+          className="flex-1 relative max-w-full overflow-hidden h-[400px] object-cover min-w-[248px]"
           alt=""
           src="/placeholder-image2@2x.png"
         />
