@@ -90,7 +90,7 @@ const LayoutHome = ({ className = "" }) => {
               </div>
             </div>
           </div>
-          <div className="self-stretch flex flex-row items-start justify-start gap-[24px]">
+          <div className="self-stretch flex flex-row items-start justify-start gap-[24px] hidden">
             <img
               className="w-12 relative h-12 overflow-hidden shrink-0 object-cover"
               alt=""

@@ -41,7 +41,7 @@ const Footer = ({ className = "" }) => {
             About Club
           </Link>
           <Link
-            className="cursor-pointer [text-decoration:none] relative leading-[150%] font-semibold text-[inherit]"
+            className="cursor-pointer [text-decoration:none] relative leading-[150%] font-semibold text-[inherit] hidden"
             to="/scholarships"
             onClick={onScholarshipFundClick}
           >
@@ -60,7 +60,7 @@ const Footer = ({ className = "" }) => {
         <div className="self-stretch relative bg-link-primary box-border h-px border-[1px] border-solid border-link-primary" />
         <div className="self-stretch flex flex-row items-start justify-center gap-[73px]">
           <div className="relative leading-[150%]">
-            © 2024 Franklin Highschool Computer Science Club. All rights
+            © 2024 Franklin Highschool STEM Club. All rights
             reserved.
           </div>
           <div className="hidden flex-row items-start justify-start gap-[24px]">

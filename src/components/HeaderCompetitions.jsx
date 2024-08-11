@@ -13,8 +13,10 @@ const HeaderCompetitions = ({ className = "" }) => {
               Unleash Your Potential
             </b>
             <div className="self-stretch relative text-lg leading-[150%]">
-              Explore the exciting future competitions that can be hosted or
-              attended by the Franklin High school STEM club
+              Explore the exciting future competitions that could be hosted or
+              attended by the Franklin High school STEM club, or other school clubs. 
+              Keep in mind that each competition could require a registration fee, 
+              so it may or may not be an option if there is no funding.
             </div>
           </div>
         </div>

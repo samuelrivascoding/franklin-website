@@ -11,7 +11,7 @@ const Home = () => {
       <Navbar />
       <HeaderHome />
       <LayoutHome />
-      <CTAScholarship />
+      {/* <CTAScholarship /> */}
       <CTALeadership />
       <Footer />
     </div>

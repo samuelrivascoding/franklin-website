@@ -52,8 +52,7 @@ const FAQAbout = ({ className = "" }) => {
           <Accordion className="self-stretch">
             <AccordionSummary expandIcon={<Icon>expand_more</Icon>}>
               <Typography>
-                How can I get involved? Can I join if I have no coding
-                experience?
+                How can I get involved?
               </Typography>
             </AccordionSummary>
             <AccordionDetails>
@@ -63,8 +62,7 @@ const FAQAbout = ({ className = "" }) => {
                 meetings. The Franklin High School STEM Club welcomes students
                 of all skill levels. Whether you actively do STEM related
                 extracurricular or are just window shopping for your interests,
-                you'll find a supportive club here. Members get invited to
-                discord for team-based competitions. Future events will be
+                you'll find a supportive club here. Future events will be
                 decided at a later basis.
               </Typography>
             </AccordionDetails>

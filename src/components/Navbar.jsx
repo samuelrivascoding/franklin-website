@@ -60,6 +60,7 @@ const Navbar = ({ className = "" }) => {
               </div>
               <div
                 className="flex flex-row items-start justify-start cursor-pointer"
+                style={{ display: "none" }}
                 onClick={onLinkTwoContainerClick}
               >
                 <div className="relative leading-[150%]">Scholarship Fund</div>

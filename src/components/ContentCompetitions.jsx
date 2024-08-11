@@ -322,7 +322,7 @@ const ContentCompetitions = ({ className = "" }) => {
                   world's largest cybersecurity competition and is open to all
                   schools and approved youth organizations. Before getting
                   started with the registration process, review this competition
-                  overview to get a better understanding of the competition! 
+                  overview to get a better understanding of the competition!
                 </p>
                 <p className="m-0">
                   <a

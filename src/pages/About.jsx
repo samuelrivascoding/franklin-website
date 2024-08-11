@@ -14,7 +14,7 @@ const About = () => {
       <CTALeadership />
       <LayoutAbout />
       <FAQAbout />
-      <CTAScholarship />
+      {/* <CTAScholarship /> */}
       <Footer />
     </div>
   );
