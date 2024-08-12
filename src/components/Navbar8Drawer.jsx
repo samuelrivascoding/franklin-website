@@ -77,7 +77,7 @@ const Navbar8Drawer = ({ className = "", onClose }) => {
               About Club
             </div>
           </div>
-          <div className="self-stretch flex flex-row items-start justify-center py-3 px-0">
+          <div className="self-stretch flex flex-row items-start justify-center py-3 px-0 hidden">
             <div
               className="relative leading-[150%] cursor-pointer"
               onClick={onLinkTwoTextClick}
